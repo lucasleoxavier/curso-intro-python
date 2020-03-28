@@ -1,0 +1,3 @@
+Testando a abertura e edição de arquivos no Python,
+com uma segunda linha para testar o read line
+e o read lines
